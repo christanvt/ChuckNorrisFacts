@@ -1,0 +1,35 @@
+body {
+  background-color: grey;
+}
+.box {
+  width: 50vh;
+  height: 30vh;
+  margin-top: 35vh;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  padding: 2%;
+  box-shadow: 8px 8px 12px rgba(170, 170, 170, 0.671);
+}
+.blocfacts {
+  height: 80%;
+}
+#facts {
+  color: grey;
+  height: auto;
+  font-size: 1.2rem;
+}
+.blocbtn {
+  width: 100%;
+  text-align: end;
+}
+#next {
+  margin-right: 0;
+  border-radius: 5%;
+  width: auto;
+  height: auto;
+  padding: 3%;
+  cursor: pointer;
+  color: white;
+  background-color: grey;
+}
